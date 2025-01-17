@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1700738541 source:c:\c\hazi\nagyhazi_uj\hazifeladat\main.c
+	"fajlkezeles/fajlkezeles.h"
+	"segedfuggvenyek/segedfuggvenyek.h"
+	"menu/menu.h"
+	"feladatok/letrehozas.h"
+	"feladatok/torles.h"
+	"feladatok/kereses.h"
+
+1670354506 c:\c\hazi\nagyhazi_uj\hazifeladat\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700732324 source:c:\c\hazi\nagyhazi_uj\hazifeladat\fajlkezeles\fajlkezeles.c
+	"fajlkezeles.h"
+
+1700733629 c:\c\hazi\nagyhazi_uj\hazifeladat\fajlkezeles\fajlkezeles.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700748346 c:\c\hazi\nagyhazi_uj\hazifeladat\segedfuggvenyek\segedfuggvenyek.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"../debugmalloc.h"
+	"../adatszerkezet/adatszerkezet.h"
+
+1700733629 c:\c\hazi\nagyhazi_uj\hazifeladat\adatszerkezet\adatszerkezet.h
+
+1700749164 source:c:\c\hazi\nagyhazi_uj\hazifeladat\segedfuggvenyek\segedfuggvenyek.c
+	"segedfuggvenyek.h"
+
+1700748878 source:c:\c\hazi\nagyhazi_uj\hazifeladat\feladatok\torles.c
+	"torles.h"
+
+1700734592 c:\c\hazi\nagyhazi_uj\hazifeladat\feladatok\torles.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700734803 source:c:\c\hazi\nagyhazi_uj\hazifeladat\feladatok\letrehozas.c
+	"letrehozas.h"
+
+1700734592 c:\c\hazi\nagyhazi_uj\hazifeladat\feladatok\letrehozas.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700734907 source:c:\c\hazi\nagyhazi_uj\hazifeladat\feladatok\kereses.c
+	"kereses.h"
+
+1700734803 c:\c\hazi\nagyhazi_uj\hazifeladat\feladatok\kereses.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700748342 c:\c\hazi\nagyhazi_uj\hazifeladat\menu\menu.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700738538 source:c:\c\hazi\nagyhazi_uj\hazifeladat\menu\menu.c
+	"menu.h"
+
+1700843127 source:c:\c\hazi\nagyhazi\hazifeladat\fajlkezeles\fajlkezeles.c
+	"fajlkezeles.h"
+
+1700850259 c:\c\hazi\nagyhazi\hazifeladat\fajlkezeles\fajlkezeles.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700842010 c:\c\hazi\nagyhazi\hazifeladat\segedfuggvenyek\segedfuggvenyek.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"../debugmalloc.h"
+	"../adatszerkezet/adatszerkezet.h"
+
+1670358106 c:\c\hazi\nagyhazi\hazifeladat\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700841835 c:\c\hazi\nagyhazi\hazifeladat\adatszerkezet\adatszerkezet.h
+
+1700840159 source:c:\c\hazi\nagyhazi\hazifeladat\feladatok\kereses.c
+	"kereses.h"
+
+1700841944 c:\c\hazi\nagyhazi\hazifeladat\feladatok\kereses.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700841617 source:c:\c\hazi\nagyhazi\hazifeladat\feladatok\letrehozas.c
+	"letrehozas.h"
+
+1700841954 c:\c\hazi\nagyhazi\hazifeladat\feladatok\letrehozas.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700843476 source:c:\c\hazi\nagyhazi\hazifeladat\feladatok\torles.c
+	"torles.h"
+
+1700841964 c:\c\hazi\nagyhazi\hazifeladat\feladatok\torles.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700837414 source:c:\c\hazi\nagyhazi\hazifeladat\main.c
+	"fajlkezeles/fajlkezeles.h"
+	"segedfuggvenyek/segedfuggvenyek.h"
+	"menu/menu.h"
+	"feladatok/letrehozas.h"
+	"feladatok/torles.h"
+	"feladatok/kereses.h"
+
+1700841981 c:\c\hazi\nagyhazi\hazifeladat\menu\menu.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700838227 source:c:\c\hazi\nagyhazi\hazifeladat\menu\menu.c
+	"menu.h"
+
+1700841706 source:c:\c\hazi\nagyhazi\hazifeladat\segedfuggvenyek\segedfuggvenyek.c
+	"segedfuggvenyek.h"
+
+1700839527 source:c:\it\c\hazi\nagyhazi\hazifeladat\fajlkezeles\fajlkezeles.c
+	"fajlkezeles.h"
+
+1700846659 c:\it\c\hazi\nagyhazi\hazifeladat\fajlkezeles\fajlkezeles.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700838410 c:\it\c\hazi\nagyhazi\hazifeladat\segedfuggvenyek\segedfuggvenyek.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"../debugmalloc.h"
+	"../adatszerkezet/adatszerkezet.h"
+
+1670354506 c:\it\c\hazi\nagyhazi\hazifeladat\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700838235 c:\it\c\hazi\nagyhazi\hazifeladat\adatszerkezet\adatszerkezet.h
+
+1700836559 source:c:\it\c\hazi\nagyhazi\hazifeladat\feladatok\kereses.c
+	"kereses.h"
+
+1700838344 c:\it\c\hazi\nagyhazi\hazifeladat\feladatok\kereses.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700838017 source:c:\it\c\hazi\nagyhazi\hazifeladat\feladatok\letrehozas.c
+	"letrehozas.h"
+
+1700838354 c:\it\c\hazi\nagyhazi\hazifeladat\feladatok\letrehozas.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700839876 source:c:\it\c\hazi\nagyhazi\hazifeladat\feladatok\torles.c
+	"torles.h"
+
+1700838364 c:\it\c\hazi\nagyhazi\hazifeladat\feladatok\torles.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700833814 source:c:\it\c\hazi\nagyhazi\hazifeladat\main.c
+	"fajlkezeles/fajlkezeles.h"
+	"segedfuggvenyek/segedfuggvenyek.h"
+	"menu/menu.h"
+	"feladatok/letrehozas.h"
+	"feladatok/torles.h"
+	"feladatok/kereses.h"
+
+1700838381 c:\it\c\hazi\nagyhazi\hazifeladat\menu\menu.h
+	"../segedfuggvenyek/segedfuggvenyek.h"
+
+1700834627 source:c:\it\c\hazi\nagyhazi\hazifeladat\menu\menu.c
+	"menu.h"
+
+1700838106 source:c:\it\c\hazi\nagyhazi\hazifeladat\segedfuggvenyek\segedfuggvenyek.c
+	"segedfuggvenyek.h"
+
